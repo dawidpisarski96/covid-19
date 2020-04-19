@@ -66,7 +66,7 @@ export default class App extends React.Component {
   render() {
     return (
         <div className="container">
-          <h1 className="headerVirus">Corona Virus</h1>
+          <h1 className="headerVirus">CoronaVirus</h1>
 
           <div className="flex">
             <div className="world">
